@@ -19,4 +19,4 @@ const lengthOfLongestSubstring = function(s) {
 
 // console.log(lengthOfLongestSubstring('abcabcbb'))
 // console.log(lengthOfLongestSubstring('bbbbb'))
-console.log(lengthOfLongestSubstring('cdd'))
+console.log(lengthOfLongestSubstring('cdd'));
